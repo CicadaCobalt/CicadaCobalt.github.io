@@ -5,3 +5,28 @@ author:
   github: CicadaCobalt
 
 remote_theme: yousinix/portfolYOU
+
+plugins:
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jemoji
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "elements"
+    values:
+      layout: "element"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
