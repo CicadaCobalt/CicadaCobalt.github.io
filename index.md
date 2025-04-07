@@ -1,5 +1,4 @@
 ---
-layout: post
-title: Blogging Like a Hacker
+title: Hello world!
 ---
-Text
+This is the first thing I'll write here.
