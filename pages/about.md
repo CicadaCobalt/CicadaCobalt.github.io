@@ -1,8 +1,10 @@
 ---
 layout: page
 title: About me!
+permalink: /about/
+weight: 3
 ---
-# All about me!
+# The classic about me page!
 
 ## Who am I?
 I am a aspiring artist on the internet. By that I mean I hope to make art of all kinds! Digital, traitional, music, games, stories, and proabably more.
