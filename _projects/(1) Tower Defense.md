@@ -2,10 +2,12 @@
 name: Turbo: Defense
 tools: [Game, Roblox, Tower Defense]
 image:
-description: A upcoming Roblox game! A tower defense with rich story and even better gameplay!
+description: A upcoming Roblox game. A tower defense with rich story and even better gameplay!
 ---
 
-This is a project _about_ three years in the making. Sadly, as of this moment (2025), this project remains on my backburner when it comes to coding...
+## What is this?
+
+This is a tower defense game _about_ three years in the making. Sadly, as of this moment (2025), this project remains on my backburner when it comes to coding...
 
 ## Why is that?
 
