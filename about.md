@@ -1,3 +1,8 @@
+---
+layout: page
+title: About me!
+---
+
 # Who am I?
 I am a aspiring artist on the internet. By that I mean I hope to make art of all kinds! Digital, traitional, music, games, stories, and proabably more.
 
