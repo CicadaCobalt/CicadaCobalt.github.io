@@ -20,3 +20,6 @@ author:
   youtube           : cicadacobalt
   soundcloud        : cicadacobalt
   github            : cicadacobalt
+
+### Posts ###
+permalink: /blog/:title
