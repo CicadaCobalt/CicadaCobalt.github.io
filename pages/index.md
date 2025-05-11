@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Index"
 ---
 
 ## Hello! Welcome to my website!
