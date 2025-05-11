@@ -1,20 +1,20 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: Roblox Retake
+tools: [Roblox, Friday Night Funkin', Web series]
+image: /assets/robloxretake_logo.png
+description: A upcoming web series in the style of other projects like "Mario Mix," or "Roblox Mix!"
 ---
 
-# The Movies Project
+## What is this?
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+This my version of the ever so popular, turn random FNF songs into (INSERT RANDOM GAME NAME HERE).
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
+## What songs should we expect to see first?
 
-## Search Movies
+If you where looking around you can already see the name of the first "Retake" in one of the pages on this website!
 
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+Although it doesn't hurt to reveal some songs I _plan_ to do within this project (I won't reveal their new names just yet!). _**This is a unsorted list!**_
 
-<p class="text-center">
-{% include elements/button.html link="https://github.com/yousinix/portfolYOU" text="Learn More" %}
-</p>
+* Subterfuge
+* Moribund
+* Fakebaby
