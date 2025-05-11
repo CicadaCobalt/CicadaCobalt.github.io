@@ -3,7 +3,7 @@ title: The Website's first post!
 tags: [Celebratory, Post, Personal]
 style: fill
 color: primary
-description: The first blog on this website!
+description: The first post on this website!
 ---
 This is the first post on this website! Today I finally got around to setting up the Website!
 
