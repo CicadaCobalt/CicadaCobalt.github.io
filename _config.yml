@@ -3,4 +3,6 @@ title               : Cobalt's Website!
 description         : Wesbite!
 remote_theme        : yousinix/portfolYOU
 
-author: Cobalt
+### Author Info ###
+authors:
+  name              : Cobalt
