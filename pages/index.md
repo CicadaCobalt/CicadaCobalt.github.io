@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Index"
+permalink: /
 ---
 
 ## Hello! Welcome to my website!
