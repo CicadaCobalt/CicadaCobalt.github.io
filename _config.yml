@@ -3,6 +3,10 @@ title               : Cobalt's Website!
 description         : Wesbite!
 remote_theme        : yousinix/portfolYOU
 
+### Plugins ###
+plugins:
+  - jemoji
+
 ### Author Info ###
 author:
   name	            : Cobalt
