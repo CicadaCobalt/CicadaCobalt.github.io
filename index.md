@@ -1,3 +1,8 @@
+---
+layout: page
+title: ""
+---
+
 # Hello! Welcome to my website!
 
 ### What is this?
