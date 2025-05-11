@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Cobalt's Website
+title               : Cobalt's Website!
 description         : >-
                       I like coding, drawing, 3D modeling, and a little animating! 
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -21,7 +21,7 @@ author:
 # dribbble          : your_username
   email             : cobalt@cicadacobalt.com
 # facebook          : your_username
-  github            : CicadaCobalt
+#  github            : CicadaCobalt
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
@@ -34,7 +34,7 @@ author:
 # twitch            : your_username
 # twitter           : your_username
 # vimeo             : your_username
- youtube           : CicadaCobalt
+# youtube           : CicadaCobalt
 # keybase           : your_username
 
 ### Disqus ###
