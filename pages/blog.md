@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: My blog
 weight: 2
 permalink: /blog/
 ---
