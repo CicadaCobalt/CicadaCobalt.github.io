@@ -25,6 +25,7 @@ Notable places you can find me on are: YouTube, Roblox, Soundcloud, and this ver
 My Discord is a fine place to contact me if you want to. I use it quite a bit so as of this moment, it's the best place to get a quick reply from me!
 
 If you need clarification, my handle on Discord is _**@cicadacobalt**_.
+
 ## Who am I?
 I am a aspiring artist on the internet. By that I mean I hope to make art of all kinds! Digital, traitional, music, games, stories, and proabably more.
 
@@ -39,7 +40,5 @@ I use the nickname **Cobalt** though, so that'll be my display name more often t
 
 Notable places you can find me on are: YouTube, Roblox, Soundcloud, and this very website!
 
-### Where should I contact you?
-My Discord is a fine place to contact me if you want to. I use it quite a bit so as of this moment, it's the best place to get a quick reply from me!
-
-If you need clarification, my handle on Discord is _**@cicadacobalt**_.
+#### Where should I contact you?
+Although I doubt this will be a real question, I'll answer it here just in case. The best place to contact me, as of this moment, is **Discord**. My handle on Discord is _**@cicadacobalt!**_
