@@ -12,7 +12,7 @@ The most obvious answer to why I haven't released any of my completed songs eith
 This inevitably slows down releases once I work on one thing, but then realize I have to do the rest myself. Because of this, I've found myself picking a whole lot of skills!
 I'm pretty happy with how my current art looks, and my music has certainly become better!
 
-###### I also just have a small fear of releasing something bad in quality.
+_I also just have a small fear of releasing something bad in quality._
 
 With this website though, I hope to achieve at the very least, a place where I can speak my mind.
 I often find myself being unable to post anything personal anywhere else because, well, most online platforms just don't feel right to be posting that type of stuff on.
@@ -26,7 +26,7 @@ Now, if you've taken a look at the other parts of my website, then you would've 
 "Roblox Retake" is a planned web series where I give my "Roblox-ified" take on a given character and their respective FNF song. Think of "Mario Mix" or "Roblox Mix" (My main inspiration!) and that would be what I'm doing.
 Now you may wonder why I don't just ask to work on the official "Roblox Mix," or just make my own original stuff. The answers to those two questions are:
 
-1. I don't think I'm _that_ good at music or art, let alone where to even ask to join.
+1. I don't think I'm _that_ good at music or art, nor do I even know where I can ask to join.
 2. I like Roblox, and I definitely plan to do _original_ stuff, to an extent. Making fan creations is also just **really** easy.
 
 Putting that aside, you may also wonder about the other project I happened to show off on this website.
