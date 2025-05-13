@@ -17,4 +17,4 @@ Although it doesn't hurt to reveal some songs I _plan_ to do within this project
 
 * Subterfuge
 * Moribund
-* Fakebaby
+* Fake Baby
