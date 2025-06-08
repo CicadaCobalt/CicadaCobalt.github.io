@@ -22,5 +22,5 @@ Song wise I have one song fully done (working on visuals as of the moment), and 
 I won’t lie, I’ve stagnated a little music-wise. This stems from a lot of the songs I like not being _that_ different tone wise. So with my “Retakes” I’m planning to **really** switch things up.
 I’m not completely just making new songs, I will be using a similar vibe, and concept-wise the retake will be very close to the original.
 
-As a little bonus for reading to the end of this particular post I’ll just announce that I’m reusing ”“Empty Fate” for the ”“Fake Baby” ”“Retake!”
+As a little bonus for reading to the end of this particular post I’ll just announce that I’m reusing Empty Fate for the Fake Baby Retake!
 Thanks for reading!
