@@ -13,8 +13,11 @@ This my version of the ever so popular, turn random FNF songs into (INSERT RANDO
 
 If you where looking around you can already see the name of the first "Retake" in one of the pages on this website!
 
-Although it doesn't hurt to reveal some songs I _plan_ to do within this project (I won't reveal their new names just yet!). _**This is a unsorted list!**_
+Although it doesn't hurt to reveal some songs I _plan_ to do within this project (I won't reveal their new names just yet!). _**This list is in no specific order!**_
 
 * Subterfuge
 * Moribund
 * Fake Baby
+* Faker & Black Sun
+* Hedge & Manual Blast
+* Free-4-Me & Obituary
