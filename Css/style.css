@@ -1,0 +1,52 @@
+h1{
+    font-family: "Sour Gummy", Courier, monospace;
+    text-align: center;
+}
+
+#navigationbartop{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+
+    gap: 20px;
+}
+
+#navigationbarbottom{
+    font-family: 'Courier New', Courier, monospace;
+
+    display: flex;
+    gap: 35px;
+}
+
+a{
+    color: rgb(75, 145, 255);
+}
+
+p{
+    color: rgb(0, 40, 155);
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+
+    font-family: "IBM Plex Mono";
+    text-align: center;
+
+    color: rgb(15, 100, 255);
+}
+
+main{
+    max-width: 55%;
+
+    padding-left: 2%;
+    padding-right: 2%;
+
+    border-left: 1px solid #9A9A9A;
+    border-right: 1px solid #9A9A9A;
+}
+
+img{
+    width: 100%;
+}
