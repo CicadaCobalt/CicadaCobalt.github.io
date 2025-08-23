@@ -1,1 +1,3 @@
-# CicadaCobalt.github.io
+hello this is the github for my website! look at my terrible code and wonder how on earth I managed to mess up even html...................
+
+yea that's all, I have a github just for this yes!
