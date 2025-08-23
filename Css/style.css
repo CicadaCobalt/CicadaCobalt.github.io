@@ -1,10 +1,8 @@
 h1{font-family: "Sour Gummy", Courier, monospace; text-align: center;}
-h1:hover{background-color: rgb(155, 200, 255); border-radius: 10px; border-style: dashed;}
+h2{font-family: "Stylish", Courier, monospace; text-align: center;}
 
-h3{background-color: rgb(155, 200, 255); border-radius: 10px;}
-
-a{color: rgb(75, 145, 255);}
-a:hover {color: rgb(255, 255, 255);}
+a{color: rgb(75, 145, 255); transition: color 300ms, font-size 150ms;}
+a:hover {color: rgb(255, 255, 255); font-size: large;}
 
 p{color: rgb(155, 200, 255);}
 
@@ -17,6 +15,7 @@ body{
     text-align: center;
 
     color: rgb(15, 100, 255);
+    background-color: black;
 
     background-image: url(/Assets/darkforest-background.png);
     background-repeat: no-repeat;
@@ -25,17 +24,21 @@ body{
     background-size: cover;
 }
 
-header{max-width: 55%;}
-footer{max-width: 55%;}
+hr{width: 45%;}
+
+header{width: 55%;}
+footer{width: 55%;}
 
 main{
-    max-width: 55%;
-    padding-left: 5%;
-    padding-right: 5%;
+    width: 45%;
+    padding-left: 2%;
+    padding-right: 2%;
     
     background-color: rgb(5, 25, 80);
-    border-radius: 10px;
-    border-style: dashed;
+    border-style: outset;
 }
+
+#website-logo{width: 45%; transition: width 100ms;}
+#website-logo:hover{width: 55%;}
 
 img{width: 100%;}
